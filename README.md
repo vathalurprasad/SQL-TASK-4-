@@ -47,8 +47,6 @@ This task helped me strengthen my skills in analyzing and summarizing data using
 - Apply conditional logic and filtering on grouped data
 - Prepare summary reports from raw datasets
 
-##  Deliverables:
-- SQL script with all aggregation and grouping queries
-- README file with approach, concepts, and learning outcomes
+
 
 ---
